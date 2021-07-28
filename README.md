@@ -1,2 +1,19 @@
-# Emotion-Detection
-Emotion Recognition, Facial recognition classification is a widely used topic in Deep Learning. To classify your emotion in real-time using OpenCV for gathering the images from webcam and feed them into Deep learning model. This model is capable of recognizing five basic emotions : neural, sad, angry, surprise, happy..,
+# PyPower Project - Emotion Detection using AI
+
+## Emotion Detection
+
+- Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
+
+- Use train.py file to train the model.
+
+- Change the number of classes according to you.
+
+- Do Experiment with different pre-trained models.
+
+- Execute the test.py file to run the Emotion Detection.
+
+- Enjoy Deep Learning.
+
+## The detailed tutorial is available in this video. Please do refer for better understanding.
+
+- https://youtu.be/PulKlAZRoAY
